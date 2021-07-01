@@ -1,6 +1,6 @@
 # Phase-Preserving-Image-Denoising
 Python implementation of Peter Kovesi's Phase Preserving Denoising of Images[[1]](#1).
-This is a blind port of [Peter Kovesi's Matlab script](https://www.peterkovesi.com/matlabfns/index.html#noisecomp), refer original author's [website](https://www.peterkovesi.com/index.html) for more information.
+This script is completely based on [Peter Kovesi's Matlab script](https://www.peterkovesi.com/matlabfns/index.html#noisecomp), refer original author's [website](https://www.peterkovesi.com/index.html) for more information.
 
 ## Demo:
 ```python
